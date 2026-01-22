@@ -418,18 +418,18 @@ MIT License - see [LICENSE](LICENSE) file for details
 ## 📧 Contact
 
 **Vidyasagar Chenreddy**
-- Email: vidyasagar.reddy65@gmail.com
+- Email: vidyasagar.aitech@gmail.com
 - LinkedIn: [linkedin.com/in/vidyasagar65](https://linkedin.com/in/vidyasagar65)
-- GitHub: [@vidyasagar65](https://github.com/vidyasagar65)
+- GitHub: [@vidyasagar-cvsr](https://github.com/vidyasagar-cvsr)
 
 ---
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vidyasagar65/ai-research-assistant&type=Date)](https://star-history.com/#vidyasagar65/ai-research-assistant&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=vidyasagar-cvsr/ai-research-assistant&type=Date)](https://star-history.com/#vidyasagar65/ai-research-assistant&Date)
 
 ---
 
-**Built with ❤️ by Vidyasagar Chenreddy**
+**Built by Vidyasagar Chenreddy**
 
 *If you find this project helpful, please give it a star! ⭐*
