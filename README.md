@@ -5,7 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-success)](https://your-demo.vercel.app)
 [![Python](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/vidyasagar65/ai-research-assistant?style=social)](https://github.com/vidyasagar65/ai-research-assistant)
+[![Stars](https://img.shields.io/github/stars/vidyasagar-cvsr/ai-research-assistant?style=social)](https://github.com/vidyasagar-cvsr/ai-research-assistant)
 
 An intelligent document analysis and research system powered by multi-agent AI, featuring advanced hybrid retrieval (semantic + BM25) and production-grade evaluation with DeepEval.
 
@@ -99,7 +99,7 @@ An intelligent document analysis and research system powered by multi-agent AI, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/vidyasagar65/ai-research-assistant.git
+git clone https://github.com/vidyasagar-cvsr/ai-research-assistant.git
 cd ai-research-assistant/backend
 
 # Create virtual environment
